@@ -1,0 +1,23 @@
+{
+  "name": "juanPi-Tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Betsycampos/juanPi-Tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Betsycampos/juanPi-Tailwind/issues"
+  },
+  "homepage": "https://github.com/Betsycampos/juanPi-Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^1.1.3"
+  }
+}
